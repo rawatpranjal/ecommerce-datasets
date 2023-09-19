@@ -61,10 +61,11 @@ Datasets for AI, Tech, Marketing, IO, Economics.
 - AWS Open data - https://registry.opendata.aws/
 - Netflix Prize - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
-## 6. Conferences
+## 6. Conferences and Journals
 - RecSys Challenge datasets - https://recsys.acm.org/
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
 - KDD Cup - https://kdd.org/kdd-cup
+- Marketing Science - https://pubsonline.informs.org/page/mksc/online-databases
 
   
 To add a dataset email me: pp712@georgetown.edu
