@@ -1,5 +1,5 @@
-# Awesome-eCommerce-Clickstream-Datasets
-Datasets for AI, Tech, Marketing, IO
+# Awesome-Platform-Datasets
+Datasets for AI, Tech, Marketing, IO, Economics.
 
 ## 1. Transactional and Clickstream:
 
