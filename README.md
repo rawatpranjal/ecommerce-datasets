@@ -11,6 +11,7 @@ Datasets for Marketing and Industrial Organization
 - Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
 - Rossman store - https://www.kaggle.com/c/rossmann-store-sales
+- Online shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 ## 2. Product Description and Reviews:
 
