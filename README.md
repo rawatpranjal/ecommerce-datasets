@@ -16,7 +16,8 @@ Datasets for AI, Tech, Marketing, IO, Economics.
 - UK retail - http://archive.ics.uci.edu/dataset/352/online+retail
 - Retail rocket recommendation - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google merchandise - https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?filter=solution-type:dataset&q=ecommerce&id=45f150ac-81d3-4796-9abf-d7a4f98eb4c6&pli=1
-
+- Wallmart - https://www.kaggle.com/datasets/yasserh/walmart-dataset
+  
 ## 2. Product Description and Reviews:
 
 - BestBuy API - https://bestbuyapis.github.io/api-documentation/#search-on-reviews
@@ -50,6 +51,8 @@ Datasets for AI, Tech, Marketing, IO, Economics.
 - Rakuten - https://sigir-ecom.github.io/ecom2018/data-task.html
 - Pakistan ecommerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Alibaba datasets - https://tianchi.aliyun.com/dataset/?tag=business
+- Wayfair - https://github.com/wayfair/WANDS
+- Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
 
 ## 5. Firms Conference
 
@@ -60,7 +63,9 @@ Datasets for AI, Tech, Marketing, IO, Economics.
 - Microsoft Research https://www.microsoft.com/en-us/research/tools/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-product-type%5D[]=243083&pg=1&sort_by=most-recent
 - AWS Open data - https://registry.opendata.aws/
 - Netflix Prize - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
-
+- JD.com - https://datascience.jd.com/page/opendataset.html
+- Rakuten - https://rit.rakuten.com/data_release/#access
+- 
 ## 6. Conferences and Journals
 - RecSys Challenge datasets - https://recsys.acm.org/
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
