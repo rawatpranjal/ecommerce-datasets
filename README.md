@@ -1,5 +1,5 @@
-# Awesome-Platform-Datasets
-Datasets for AI, Tech, Marketing, IO, Economics.
+# Platform-Datasets
+Big data for Marketing, IO, Economics.
 
 ## 1. Transactional and Clickstream:
 
@@ -17,7 +17,19 @@ Datasets for AI, Tech, Marketing, IO, Economics.
 - Retail rocket recommendation - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google merchandise - https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?filter=solution-type:dataset&q=ecommerce&id=45f150ac-81d3-4796-9abf-d7a4f98eb4c6&pli=1
 - Wallmart - https://www.kaggle.com/datasets/yasserh/walmart-dataset
-  
+- Fashion Purchases - http://www.recsyschallenge.com/2022/
+- Travel Interactions - https://recsys.trivago.cloud/
+- Car Insurance - https://www.aicrowd.com/challenges/insurance-pricing-game#dataset
+- Liquor Sale - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
+- Drug Sales - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
+- Wholesale liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
+- UK Store - https://www.kaggle.com/datasets/usmanahmad11/online-retails-store-dataset
+- Flipkart Sales - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
+- Unknown sale data - https://www.kaggle.com/datasets/pigment/big-sales-data
+- Indian vehicle sales - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023?select=telangana_vehicle_sales_July.csv
+- myAuto.ge cars - https://www.kaggle.com/datasets/ssturua/myautoge-cars-dataset
+- Brazil medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
+- 
 ## 2. Product Description and Reviews:
 
 - BestBuy API - https://bestbuyapis.github.io/api-documentation/#search-on-reviews
@@ -65,12 +77,24 @@ Datasets for AI, Tech, Marketing, IO, Economics.
 - Netflix Prize - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - JD.com - https://datascience.jd.com/page/opendataset.html
 - Rakuten - https://rit.rakuten.com/data_release/#access
-- 
-## 6. Conferences and Journals
+- Spotify Research - https://research.atspotify.com/datasets/
+- IMB - https://developer.ibm.com/technologies/artificial-intelligence/data/
+- Baidu - https://ai.baidu.com/broad/download
+- AirBnb - http://insideairbnb.com/get-the-data/
+
+## 6. Housing and Property
+
+- Cook County -
+- UK house prices -
+- Redfin - https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
+
+
+## 7. Competitions
 - RecSys Challenge datasets - https://recsys.acm.org/
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
 - KDD Cup - https://kdd.org/kdd-cup
 - Marketing Science - https://pubsonline.informs.org/page/mksc/online-databases
-
+- Driven Data - https://www.drivendata.org/
+- 
   
 To add a dataset email me: pp712@georgetown.edu
