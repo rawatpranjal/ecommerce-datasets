@@ -1,18 +1,12 @@
 # Platform-Datasets
 Big data for Marketing, IO, Economics.
 
-## 1. Transactional and Clickstream:
+## 1. Transactions
 
-- SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
-- Olist Brazilian eCommerce - Full - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-- Cosmetics Clickstream - https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop
 - Electronics Purchase history - https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
 - Open CDP - https://rees46.com/en/datasets
-- Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
-- Online Auctions - https://www.modelingonlineauctions.com/datasets
 - Rossman store - https://www.kaggle.com/c/rossmann-store-sales
 - Online shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
-- Clickstream database https://datarade.ai/data-categories/clickstream-data
 - UK retail - http://archive.ics.uci.edu/dataset/352/online+retail
 - Retail rocket recommendation - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google merchandise - https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?filter=solution-type:dataset&q=ecommerce&id=45f150ac-81d3-4796-9abf-d7a4f98eb4c6&pli=1
@@ -29,8 +23,16 @@ Big data for Marketing, IO, Economics.
 - Indian vehicle sales - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023?select=telangana_vehicle_sales_July.csv
 - myAuto.ge cars - https://www.kaggle.com/datasets/ssturua/myautoge-cars-dataset
 - Brazil medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
-- 
-## 2. Product Description and Reviews:
+
+## 2. Clickstream
+- SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
+- Cosmetics Clickstream - https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop
+- Indonesian Fashion Campus - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
+- Olist Brazilian eCommerce - Full - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- Clickstream database https://datarade.ai/data-categories/clickstream-data
+- Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
+
+## 3. Products and Reviews:
 
 - BestBuy API - https://bestbuyapis.github.io/api-documentation/#search-on-reviews
 - Retail rocket recommendation - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
@@ -41,7 +43,8 @@ Big data for Marketing, IO, Economics.
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 
-## 3. Auctions (RTB+Online)
+## 4. Auctions 
+- Online Auctions - https://www.modelingonlineauctions.com/datasets
 - YOYI https://apex.sjtu.edu.cn/datasets/7
 - CRITEO https://ailab.criteo.com/ressources/
 - AVAZU https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
@@ -56,7 +59,7 @@ Big data for Marketing, IO, Economics.
 - ICPSR [https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score desc%2CDATEUPDATED desc&rows=25&q=auction](https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score%20desc%2CDATEUPDATED%20desc&rows=25&q=auction)
 - HARVARD https://dataverse.harvard.edu/dataverse/harvard?q=auction
 
-## 4. Search:
+## 5. Search:
 
 - BestBuy Kaggle - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
 - eCommerce Search - https://competitions.codalab.org/competitions/11161
@@ -66,7 +69,7 @@ Big data for Marketing, IO, Economics.
 - Wayfair - https://github.com/wayfair/WANDS
 - Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
 
-## 5. Firms Conference
+## 6. Firm Open Datasets
 
 - Yahoo - https://webscope.sandbox.yahoo.com/
 - Yelp - https://www.yelp.com/dataset
@@ -82,14 +85,14 @@ Big data for Marketing, IO, Economics.
 - Baidu - https://ai.baidu.com/broad/download
 - AirBnb - http://insideairbnb.com/get-the-data/
 
-## 6. Housing and Property
+## 7. Housing and Property
 
 - Cook County -
 - UK house prices -
 - Redfin - https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
 
 
-## 7. Competitions
+## 8. Competitions
 - RecSys Challenge datasets - https://recsys.acm.org/
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
 - KDD Cup - https://kdd.org/kdd-cup
