@@ -69,6 +69,7 @@ Big data for Marketing, IO, Economics.
 - Alibaba datasets - https://tianchi.aliyun.com/dataset/?tag=business
 - Wayfair - https://github.com/wayfair/WANDS
 - Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
+- Alibaba Search - https://www.yongfeng.me/dataset/
 
 ## 6. Firm Open Datasets
 
