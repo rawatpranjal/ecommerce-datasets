@@ -23,6 +23,7 @@ Big data for Marketing, IO, Economics.
 - Indian vehicle sales - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023?select=telangana_vehicle_sales_July.csv
 - myAuto.ge cars - https://www.kaggle.com/datasets/ssturua/myautoge-cars-dataset
 - Brazil medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
+- JD 2014 data - https://www.yongfeng.me/dataset/
 
 ## 2. Clickstream
 - SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
