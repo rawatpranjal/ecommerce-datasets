@@ -70,6 +70,7 @@ Big data for Marketing, IO, Economics.
 - Wayfair - https://github.com/wayfair/WANDS
 - Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
 - Alibaba Search - https://www.yongfeng.me/dataset/
+- JDSearch - https://github.com/rucliujn/JDsearch
 
 ## 6. Firm Open Datasets
 
