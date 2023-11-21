@@ -103,5 +103,10 @@ Big data for Marketing, IO, Economics.
 - Marketing Science - https://pubsonline.informs.org/page/mksc/online-databases
 - Driven Data - https://www.drivendata.org/
 - Open ML - https://www.openml.org/
+- 
+
+## 9. Logistics
+- MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
+- 
   
 To add a dataset email me: pp712@georgetown.edu
