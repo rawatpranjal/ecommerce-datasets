@@ -63,7 +63,8 @@ Individual or aggregate Sales, typically for time-series forecasting.
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 
 
-## Auctions / Bidding Logs
+## Auctions
+Bidding logs, and ad-clickstream if available. 
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
 - IPINYOU  [http://contest.ipinyou.com](http://contest.ipinyou.com/)
 - Alibaba https://tianchi.aliyun.com/dataset/148347
@@ -78,7 +79,7 @@ Individual or aggregate Sales, typically for time-series forecasting.
 - Replication Data (Harvard) https://dataverse.harvard.edu/dataverse/harvard?q=auction
 
 ## Open Datasets
-
+Research datasets made open source by firms. 
 - Yahoo - https://webscope.sandbox.yahoo.com/
 - Yelp - https://www.yelp.com/dataset
 - Yandex - https://research.yandex.com/datasets
@@ -93,12 +94,9 @@ Individual or aggregate Sales, typically for time-series forecasting.
 - Baidu - https://ai.baidu.com/broad/download
 - AirBnb - http://insideairbnb.com/get-the-data/
 
-## Finance / Insurance
+## Finance / Insurance / Real Estate
+Housing prices, sales, and financial transactions. 
 - Car Insurance - https://www.aicrowd.com/challenges/insurance-pricing-game#dataset
-
-
-## Housing / Property
-
 - Cook County -
 - UK house prices -
 - Redfin - https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
