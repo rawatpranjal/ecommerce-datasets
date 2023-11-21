@@ -45,10 +45,10 @@ Browsing logs from users without purchase data.
 - YOYI https://apex.sjtu.edu.cn/datasets/7
 - Ele Search https://tianchi.aliyun.com/dataset/120281
 
-## Product Characteristics and Reviews:
+## Products and Reviews:
 
-- BestBuy API - https://bestbuyapis.github.io/api-documentation/#search-on-reviews
-- Retail rocket recommendation - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
+Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
+
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
 - Flipkart products - https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products
 - Amazon datasets - https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews
