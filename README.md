@@ -8,6 +8,7 @@ Price and Quantities from Purchases, along with Browsing data if available.
 - Indonesia Fashion - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2011-2014 - https://www.yongfeng.me/dataset/
+- JD.com 2020 - https://connect.informs.org/msom/events/datadriven2020
 - Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
 - Alibaba Tmall - https://tianchi.aliyun.com/dataset/140281
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
