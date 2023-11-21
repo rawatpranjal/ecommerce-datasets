@@ -26,14 +26,24 @@ Big data for Marketing and Economics.
 - Brazil medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 - JD 2014 data - https://www.yongfeng.me/dataset/
 - Tmall - https://tianchi.aliyun.com/dataset/140281
-- Cosmetics Clickstream - https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop
 
-
-## 2. Clickstream and Session Logs
+## 2. Browsing Sessions / Clickstream / Search
 - SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Clickstream database https://datarade.ai/data-categories/clickstream-data
 - Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
 - CTR Tianchi - https://tianchi.aliyun.com/dataset/123953
+- BestBuy Kaggle - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
+- eCommerce Search - https://competitions.codalab.org/competitions/11161
+- Rakuten - https://sigir-ecom.github.io/ecom2018/data-task.html
+- Pakistan ecommerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
+- Alibaba datasets - https://tianchi.aliyun.com/dataset/?tag=business
+- Wayfair - https://github.com/wayfair/WANDS
+- Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
+- Alibaba Search - https://www.yongfeng.me/dataset/
+- JDSearch - https://github.com/rucliujn/JDsearch
+- CRITEO https://ailab.criteo.com/ressources/
+- AVAZU https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
+- YOYI https://apex.sjtu.edu.cn/datasets/7
 
 ## 3. Products and Reviews:
 
@@ -46,51 +56,37 @@ Big data for Marketing and Economics.
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 
-## 4. Auctions 
+## 4. Auctions / Bidding Logs
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
-- YOYI https://apex.sjtu.edu.cn/datasets/7
-- CRITEO https://ailab.criteo.com/ressources/
-- AVAZU https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
-- ADFORM https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TADBY7
 - IPINYOU  [http://contest.ipinyou.com](http://contest.ipinyou.com/)
+
+- ADFORM https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TADBY7
 - TENCENT https://algo.qq.com/index.html
 - OUTBRAIN https://www.kaggle.com/c/outbrain-click-prediction
 - SOSO https://www.kaggle.com/competitions/kddcup2012-track2/overview
-- YAHOO https://webscope.sandbox.yahoo.com/#datasets
+- YAHOO https://webscope.sandbox.yahoo.com/catalog.php?datatype=a
 - BIDOO https://www.kaggle.com/datasets/federicominutoli/bidoo-closed-auctions
 - EBAY https://www.kaggle.com/datasets/onlineauctions/online-auctions-dataset
 - ICPSR [https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score desc%2CDATEUPDATED desc&rows=25&q=auction](https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score%20desc%2CDATEUPDATED%20desc&rows=25&q=auction)
-- HARVARD https://dataverse.harvard.edu/dataverse/harvard?q=auction
+- Replication Data (Harvard) https://dataverse.harvard.edu/dataverse/harvard?q=auction
 
-## 5. Search:
-
-- BestBuy Kaggle - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
-- eCommerce Search - https://competitions.codalab.org/competitions/11161
-- Rakuten - https://sigir-ecom.github.io/ecom2018/data-task.html
-- Pakistan ecommerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
-- Alibaba datasets - https://tianchi.aliyun.com/dataset/?tag=business
-- Wayfair - https://github.com/wayfair/WANDS
-- Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
-- Alibaba Search - https://www.yongfeng.me/dataset/
-- JDSearch - https://github.com/rucliujn/JDsearch
-
-## 6. Firm Open Datasets
+## 6. Open Datasets
 
 - Yahoo - https://webscope.sandbox.yahoo.com/
 - Yelp - https://www.yelp.com/dataset
-- Yandex Search - https://research.yandex.com/datasets
-- Facebook Research https://fort.fb.com/researcher-datasets
-- Microsoft Research https://www.microsoft.com/en-us/research/tools/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-product-type%5D[]=243083&pg=1&sort_by=most-recent
+- Yandex - https://research.yandex.com/datasets
+- Facebook - https://fort.fb.com/researcher-datasets
+- Microsoft - https://www.microsoft.com/en-us/research/tools/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-product-type%5D[]=243083&pg=1&sort_by=most-recent
 - AWS Open data - https://registry.opendata.aws/
-- Netflix Prize - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+- Netflix - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - JD.com - https://datascience.jd.com/page/opendataset.html
 - Rakuten - https://rit.rakuten.com/data_release/#access
-- Spotify Research - https://research.atspotify.com/datasets/
-- IMB - https://developer.ibm.com/technologies/artificial-intelligence/data/
+- Spotify - https://research.atspotify.com/datasets/
+- IBM - https://developer.ibm.com/technologies/artificial-intelligence/data/
 - Baidu - https://ai.baidu.com/broad/download
 - AirBnb - http://insideairbnb.com/get-the-data/
 
-## 7. Housing and Property
+## 7. Housing / Property
 
 - Cook County -
 - UK house prices -
