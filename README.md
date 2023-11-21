@@ -2,7 +2,6 @@
 Curated list of open datasets for Marketing and Economics.
 
 ## Transactions and Shopping
-
 Price and Quantities from Purchases, along with Browsing data if available. 
 
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
@@ -46,7 +45,6 @@ Browsing logs from users without purchase data.
 - Ele Search https://tianchi.aliyun.com/dataset/120281
 
 ## Products and Reviews:
-
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
 
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
@@ -58,6 +56,8 @@ Product characteristics including images, descriptions, and reviews; but no user
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 
 ## Sales 
+Individual or aggregate Sales, typically for time-series forecasting. 
+
 - Liquor Sale - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
