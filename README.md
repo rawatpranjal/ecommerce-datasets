@@ -1,10 +1,10 @@
 # Platform-Datasets
 Curated list of open datasets for Marketing and Economics.
 
-## Transactions / Shopping
+## Transactions and Shopping
 
-- Olist Brazilian eCommerce - Full - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-- Indonesian Fashion Campus - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
+- Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- Indonesia Fashion - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
 - Open CDP - https://rees46.com/en/datasets
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Online Shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
@@ -12,21 +12,16 @@ Curated list of open datasets for Marketing and Economics.
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google Merchandise - https://support.google.com/analytics/answer/7586738#
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
-- Liquor Sale - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
-- Drug Sales - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
-- Wholesale liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
-- UK Store - https://www.kaggle.com/datasets/usmanahmad11/online-retails-store-dataset
-- Flipkart Sales - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
-- Unknown sale data - https://www.kaggle.com/datasets/pigment/big-sales-data
-- Indian vehicle sales - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023?select=telangana_vehicle_sales_July.csv
-- myAuto.ge cars - https://www.kaggle.com/datasets/ssturua/myautoge-cars-dataset
-- Brazil medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
-- JD 2014 data - https://www.yongfeng.me/dataset/
-- Tmall - https://tianchi.aliyun.com/dataset/140281
+- Medicine Sales - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
+- Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
+- India Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
+- Electronic Sales NY - https://www.kaggle.com/datasets/pigment/big-sales-data
+- JD.com 2011-2014 - https://www.yongfeng.me/dataset/
+- Alibaba Tmall - https://tianchi.aliyun.com/dataset/140281
 - Friggy Travel - https://tianchi.aliyun.com/dataset/140721
-- IJCAI-18 Alibaba - https://tianchi.aliyun.com/dataset/147588
+- Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
 
-## Browsing Sessions / Clickstream / Search
+## Browsing, Clickstream and Search
 - SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Clickstream database https://datarade.ai/data-categories/clickstream-data
 - Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
@@ -44,6 +39,7 @@ Curated list of open datasets for Marketing and Economics.
 - CRITEO https://ailab.criteo.com/ressources/
 - AVAZU https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
 - YOYI https://apex.sjtu.edu.cn/datasets/7
+- Ele Search https://tianchi.aliyun.com/dataset/120281
 
 ## Product Characteristics and Reviews:
 
@@ -55,6 +51,13 @@ Curated list of open datasets for Marketing and Economics.
 - Pakistan ecommerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
+- German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
+
+## Sales
+- Liquor Sale - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
+- Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023?select=telangana_vehicle_sales_July.csv
+- Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
+
 
 ## Auctions / Bidding Logs
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
