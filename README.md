@@ -1,13 +1,14 @@
 # Platform-Datasets
-Big data for Marketing, IO, Economics.
+Big data for Marketing and Economics.
 
-## 1. Transactions
+## 1. Transactions / Shopping
 
-- Electronics Purchase history - https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
+- Olist Brazilian eCommerce - Full - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- Indonesian Fashion Campus - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
 - Open CDP - https://rees46.com/en/datasets
 - Rossman store - https://www.kaggle.com/c/rossmann-store-sales
 - Online shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
-- UK retail - http://archive.ics.uci.edu/dataset/352/online+retail
+- UK Retail - http://archive.ics.uci.edu/dataset/352/online+retail
 - Retail rocket recommendation - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google merchandise - https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?filter=solution-type:dataset&q=ecommerce&id=45f150ac-81d3-4796-9abf-d7a4f98eb4c6&pli=1
 - Wallmart - https://www.kaggle.com/datasets/yasserh/walmart-dataset
@@ -24,14 +25,15 @@ Big data for Marketing, IO, Economics.
 - myAuto.ge cars - https://www.kaggle.com/datasets/ssturua/myautoge-cars-dataset
 - Brazil medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 - JD 2014 data - https://www.yongfeng.me/dataset/
-
-## 2. Clickstream
-- SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
+- Tmall - https://tianchi.aliyun.com/dataset/140281
 - Cosmetics Clickstream - https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop
-- Indonesian Fashion Campus - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
-- Olist Brazilian eCommerce - Full - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
+## 2. Clickstream and Session Logs
+- SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Clickstream database https://datarade.ai/data-categories/clickstream-data
 - Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
+- CTR Tianchi - https://tianchi.aliyun.com/dataset/123953
 
 ## 3. Products and Reviews:
 
@@ -103,7 +105,7 @@ Big data for Marketing, IO, Economics.
 - Marketing Science - https://pubsonline.informs.org/page/mksc/online-databases
 - Driven Data - https://www.drivendata.org/
 - Open ML - https://www.openml.org/
-- 
+  
 
 ## 9. Logistics
 - MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
