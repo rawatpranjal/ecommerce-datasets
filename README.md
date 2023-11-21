@@ -55,6 +55,7 @@ Product characteristics including images, descriptions, and reviews; but no user
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
+- Metacritic Video Games - https://tianchi.aliyun.com/dataset/144719
 
 ## Sales and Forecasting 
 Individual or aggregate Sales, typically for time-series forecasting. 
@@ -81,6 +82,8 @@ Bidding logs, with ad-clickstream if available.
 ## Logistics
 Supply-side data on logistics, freight, etc.
 - MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
+- DataCo - https://tianchi.aliyun.com/dataset/89959
+- Drone Delivery - https://tianchi.aliyun.com/dataset/89726
 
 ## Research Datasets
 Open source data by tech and e-commerce firms. 
