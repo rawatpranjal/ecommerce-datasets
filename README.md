@@ -88,7 +88,7 @@ Research datasets made open source by firms.
 - Yelp - https://www.yelp.com/dataset
 - Yandex - https://research.yandex.com/datasets
 - Facebook - https://fort.fb.com/researcher-datasets
-- Microsoft - https://www.microsoft.com/en-us/research/tools/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-product-type%5D[]=243083&pg=1&sort_by=most-recent
+- Microsoft - https://www.microsoft.com/en-us/research/tools/?
 - AWS Open data - https://registry.opendata.aws/
 - Netflix - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - JD.com - https://datascience.jd.com/page/opendataset.html
