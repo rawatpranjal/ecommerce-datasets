@@ -45,7 +45,7 @@ Browsing logs from users without purchase data.
 - Ele Search https://tianchi.aliyun.com/dataset/120281
 - Ele Clickstream https://tianchi.aliyun.com/dataset/131047
 
-## Products and Reviews:
+## Product:
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
 
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
@@ -63,7 +63,6 @@ Individual or aggregate Sales, typically for time-series forecasting.
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 
-
 ## Auctions
 Bidding logs, and ad-clickstream if available. 
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
@@ -78,6 +77,10 @@ Bidding logs, and ad-clickstream if available.
 - EBAY https://www.kaggle.com/datasets/onlineauctions/online-auctions-dataset
 - ICPSR [https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score desc%2CDATEUPDATED desc&rows=25&q=auction](https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score%20desc%2CDATEUPDATED%20desc&rows=25&q=auction)
 - Replication Data (Harvard) https://dataverse.harvard.edu/dataverse/harvard?q=auction
+
+## Logistics
+Supply-side data on logistics, freight, etc.
+- MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
 
 ## Open Datasets
 Research datasets made open source by firms. 
@@ -96,18 +99,12 @@ Research datasets made open source by firms.
 - AirBnb - http://insideairbnb.com/get-the-data/
 
 ## Competitions
-
-- RecSys Challenge datasets - https://recsys.acm.org/
-- RecSys Datasets - https://github.com/RUCAIBox/RecSysDatasets
+Competitions and Conferences related to eCommerce and Recommendation Systems
+- RecSys - https://github.com/RUCAIBox/RecSysDatasets
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
 - KDD Cup - https://kdd.org/kdd-cup
 - Marketing Science - https://pubsonline.informs.org/page/mksc/online-databases
 - Driven Data - https://www.drivendata.org/
 - Open ML - https://www.openml.org/
-  
 
-## 9. Logistics
-- MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
-- 
-  
 To add a dataset email me.
