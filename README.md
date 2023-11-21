@@ -9,14 +9,17 @@ Price and Quantities from Purchases, along with Browsing data if available.
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2011-2014 - https://www.yongfeng.me/dataset/
 - JD.com 2020 - https://connect.informs.org/msom/events/datadriven2020
+- Alibaba User Behaviour - https://www.yongfeng.me/dataset/
 - Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
 - Alibaba Tmall - https://tianchi.aliyun.com/dataset/140281
+- Coveo Labs - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google Merchandise - https://support.google.com/analytics/answer/7586738#
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Online Shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 - UK Retail - http://archive.ics.uci.edu/dataset/352/online+retail
 - India Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
+- Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
 - Medicine Sales - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
 - Friggy Travel - https://tianchi.aliyun.com/dataset/140721
@@ -26,33 +29,26 @@ Price and Quantities from Purchases, along with Browsing data if available.
 ## Clickstream and Search
 Browsing logs from users without purchase data. 
 
-- SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
-- Clickstream database https://datarade.ai/data-categories/clickstream-data
-- Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
 - Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 - CTR Tianchi - https://tianchi.aliyun.com/dataset/123953
 - BestBuy Kaggle - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
 - eCommerce Search - https://competitions.codalab.org/competitions/11161
 - Rakuten - https://sigir-ecom.github.io/ecom2018/data-task.html
-- Pakistan ecommerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
-- Alibaba datasets - https://tianchi.aliyun.com/dataset/?tag=business
-- Wayfair - https://github.com/wayfair/WANDS
-- Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
-- Alibaba Search - https://www.yongfeng.me/dataset/
-- JD.com Search - https://github.com/rucliujn/JDsearch
-- CRITEO https://ailab.criteo.com/ressources/
-- AVAZU https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
-- YOYI https://apex.sjtu.edu.cn/datasets/7
+- Wayfair Search - https://github.com/wayfair/WANDS
+- Criteo https://ailab.criteo.com/ressources/
+- Avazu https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
+- Yoyi https://apex.sjtu.edu.cn/datasets/7
 - Ele Search https://tianchi.aliyun.com/dataset/120281
 - Ele Clickstream https://tianchi.aliyun.com/dataset/131047
+- JD.com Search - https://github.com/rucliujn/JDsearch
 
 ## Products and Reviews
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
 
+- Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
 - Flipkart products - https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products
 - Amazon datasets - https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews
-- Pakistan ecommerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
