@@ -38,11 +38,12 @@ Browsing logs from users without purchase data.
 - Wayfair - https://github.com/wayfair/WANDS
 - Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
 - Alibaba Search - https://www.yongfeng.me/dataset/
-- JDSearch - https://github.com/rucliujn/JDsearch
+- JD.com Search - https://github.com/rucliujn/JDsearch
 - CRITEO https://ailab.criteo.com/ressources/
 - AVAZU https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
 - YOYI https://apex.sjtu.edu.cn/datasets/7
 - Ele Search https://tianchi.aliyun.com/dataset/120281
+- Ele Clickstream https://tianchi.aliyun.com/dataset/131047
 
 ## Products and Reviews:
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
@@ -94,18 +95,8 @@ Research datasets made open source by firms.
 - Baidu - https://ai.baidu.com/broad/download
 - AirBnb - http://insideairbnb.com/get-the-data/
 
-## Finance / Insurance / Real Estate
-Housing prices, sales, and financial transactions. 
-- Car Insurance - https://www.aicrowd.com/challenges/insurance-pricing-game#dataset
-- Cook County -
-- UK house prices -
-- Redfin - https://www.kaggle.com/datasets/thuynyle/redfin-housing-market-data
+## Competitions
 
-## Graph / Social
-
-- eCommerce Risk - https://tianchi.aliyun.com/competition/entrance/531976/information
-
-## 8. Competitions
 - RecSys Challenge datasets - https://recsys.acm.org/
 - RecSys Datasets - https://github.com/RUCAIBox/RecSysDatasets
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
@@ -119,4 +110,4 @@ Housing prices, sales, and financial transactions.
 - MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
 - 
   
-To add a dataset email me: pp712@georgetown.edu
+To add a dataset email me.
