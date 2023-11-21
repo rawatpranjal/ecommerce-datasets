@@ -2,6 +2,7 @@
 Curated list of open datasets for Marketing and Economics.
 
 ## Transactions and Shopping
+Price and Quantities from Purchases, along with Browsing data if available. 
 
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Indonesia Fashion - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
@@ -21,7 +22,9 @@ Curated list of open datasets for Marketing and Economics.
 - Friggy Travel - https://tianchi.aliyun.com/dataset/140721
 - Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
 
-## Browsing, Clickstream and Search
+## Clickstream and Search
+Browsing logs from users without purchase data. 
+
 - SIGIR eCommerce - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Clickstream database https://datarade.ai/data-categories/clickstream-data
 - Indiana click data - https://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
@@ -53,9 +56,9 @@ Curated list of open datasets for Marketing and Economics.
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 
-## Sales
+## Sales 
 - Liquor Sale - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
-- Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023?select=telangana_vehicle_sales_July.csv
+- Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 
 
