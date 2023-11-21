@@ -7,20 +7,20 @@ Price and Quantities from Purchases, along with Browsing data if available.
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Indonesia Fashion - https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv
 - Open CDP - https://rees46.com/en/datasets
+- JD.com 2011-2014 - https://www.yongfeng.me/dataset/
+- Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
+- Alibaba Tmall - https://tianchi.aliyun.com/dataset/140281
+- Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
+- Google Merchandise - https://support.google.com/analytics/answer/7586738#
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Online Shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 - UK Retail - http://archive.ics.uci.edu/dataset/352/online+retail
-- Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
-- Google Merchandise - https://support.google.com/analytics/answer/7586738#
+- India Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
 - Medicine Sales - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
-- Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
-- India Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
-- Electronic Sales NY - https://www.kaggle.com/datasets/pigment/big-sales-data
-- JD.com 2011-2014 - https://www.yongfeng.me/dataset/
-- Alibaba Tmall - https://tianchi.aliyun.com/dataset/140281
 - Friggy Travel - https://tianchi.aliyun.com/dataset/140721
-- Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
+- Electronic Sales NY - https://www.kaggle.com/datasets/pigment/big-sales-data
+- Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
 
 ## Clickstream and Search
 Browsing logs from users without purchase data. 
