@@ -97,6 +97,7 @@ Big data for Marketing, IO, Economics.
 
 ## 8. Competitions
 - RecSys Challenge datasets - https://recsys.acm.org/
+- RecSys Datasets - https://github.com/RUCAIBox/RecSysDatasets
 - Data Mining Cups - https://www.data-mining-cup.com/reviews/
 - KDD Cup - https://kdd.org/kdd-cup
 - Marketing Science - https://pubsonline.informs.org/page/mksc/online-databases
