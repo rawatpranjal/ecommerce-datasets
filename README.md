@@ -2,6 +2,7 @@
 Curated list of open datasets for Marketing and Economics.
 
 ## Transactions and Shopping
+
 Price and Quantities from Purchases, along with Browsing data if available. 
 
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
