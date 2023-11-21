@@ -1,5 +1,5 @@
 # E-Commerce Datasets
-A curated list of open datasets for Marketing, Economics, Operations, and Computer Science. 
+A curated list of open datasets to study E-Commerce from the fields of Marketing, Economics, Operations, and Computer Science. 
 
 ## Transactions and Shopping
 Price and Quantities from Purchases, along with Browsing data if available. 
