@@ -45,7 +45,7 @@ Browsing logs from users without purchase data.
 - Ele Search https://tianchi.aliyun.com/dataset/120281
 - Ele Clickstream https://tianchi.aliyun.com/dataset/131047
 
-## Product:
+## Products and Reviews
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
 
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
@@ -56,15 +56,15 @@ Product characteristics including images, descriptions, and reviews; but no user
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 
-## Sales 
+## Sales and Forecasting 
 Individual or aggregate Sales, typically for time-series forecasting. 
 
 - Liquor Sale - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 
-## Auctions
-Bidding logs, and ad-clickstream if available. 
+## Auctions and Advertising
+Bidding logs, with ad-clickstream if available. 
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
 - IPINYOU  [http://contest.ipinyou.com](http://contest.ipinyou.com/)
 - Alibaba https://tianchi.aliyun.com/dataset/148347
@@ -82,8 +82,8 @@ Bidding logs, and ad-clickstream if available.
 Supply-side data on logistics, freight, etc.
 - MSOM - https://tianchi.aliyun.com/competition/entrance/231623/information
 
-## Open Datasets
-Research datasets made open source by firms. 
+## Research Datasets
+Open source data by tech and e-commerce firms. 
 - Yahoo - https://webscope.sandbox.yahoo.com/
 - Yelp - https://www.yelp.com/dataset
 - Yandex - https://research.yandex.com/datasets
