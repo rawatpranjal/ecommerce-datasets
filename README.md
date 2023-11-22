@@ -53,6 +53,7 @@ Product characteristics including images, descriptions, and reviews; but no user
 - Fashion-minst https://github.com/zalandoresearch/fashion-mnist
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 - Metacritic Video Games - https://tianchi.aliyun.com/dataset/144719
+- Goodreads - https://mengtingwan.github.io/data/goodreads.html#datasets
 
 ## Sales and Forecasting 
 Individual or aggregate Sales, typically for time-series forecasting. 
