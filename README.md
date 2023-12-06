@@ -45,6 +45,7 @@ Browsing logs from users without purchase data.
 ## Products and Reviews
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
 
+- Video, Audio, Text on Products - https://xiaodongsuper.github.io/M5Product_dataset/index.html
 - Home Depot - https://www.kaggle.com/datasets/thedevastator/the-home-depot-products-dataset
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
 - Flipkart products - https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products
