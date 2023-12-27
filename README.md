@@ -9,8 +9,8 @@ Price and Quantities from Purchases, along with Browsing data if available.
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2011-2014 - https://www.yongfeng.me/dataset/
 - JD.com 2020 - https://connect.informs.org/msom/events/datadriven2020
-- Alibaba User Behaviour Industrial (150GB) - https://tianchi.aliyun.com/dataset/81505
 - Alimama Sponsered Search (IJCAI-18) - https://tianchi.aliyun.com/dataset/147588
+- Alibaba Phone Shopping (6GB) - https://www.yongfeng.me/dataset/
 - Tmall - https://tianchi.aliyun.com/dataset/140281
 - Coveo Labs - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
@@ -41,13 +41,15 @@ Browsing logs from users without purchase data or includes conversions but witho
 - Avazu https://www.kaggle.com/competitions/avazu-ctr-prediction/overview
 - Yoyi https://apex.sjtu.edu.cn/datasets/7
 - Ele Search https://tianchi.aliyun.com/dataset/120281
-- Ele Clickstream https://tianchi.aliyun.com/dataset/131047
-- Taobao Brick and Mortar (IJCAI-16) https://tianchi.aliyun.com/dataset/53
-- Taobao Mobile 2021 - https://tianchi.aliyun.com/dataset/109858
-- Taobao Clickstream 2018 - https://tianchi.aliyun.com/dataset/56
-- Taobao Cloud Theme - https://tianchi.aliyun.com/dataset/9716
-- Taobao Ads - https://tianchi.aliyun.com/dataset/148347
-- Taobao User Behavior 2018 - https://tianchi.aliyun.com/dataset/649
+- Ele Clickstream - https://tianchi.aliyun.com/dataset/131047
+- Alibaba Industrial (150GB) - https://tianchi.aliyun.com/dataset/81505
+- Alibaba Fashion Combo - https://tianchi.aliyun.com/dataset/131519
+- Alibaba Brick and Mortar (IJCAI-16) - https://tianchi.aliyun.com/dataset/53
+- Alibaba Mobile 2021 - https://tianchi.aliyun.com/dataset/109858
+- Alibaba Clickstream 2018 - https://tianchi.aliyun.com/dataset/56
+- Alibaba Cloud Theme - https://tianchi.aliyun.com/dataset/9716
+- Alibaba Ads - https://tianchi.aliyun.com/dataset/148347
+- Alibaba User Behavior 2018 - https://tianchi.aliyun.com/dataset/649
 - JD.com Search - https://github.com/rucliujn/JDsearch
 
 ## Products and Reviews
