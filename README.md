@@ -50,8 +50,6 @@ Browsing logs from users without purchase data or includes conversions but witho
 - Taobao User Behavior 2018 - https://tianchi.aliyun.com/dataset/649
 - JD.com Search - https://github.com/rucliujn/JDsearch
 
-## Alibaba - Taobao and Tmall
-
 ## Products and Reviews
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
 
