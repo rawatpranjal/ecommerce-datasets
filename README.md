@@ -9,25 +9,27 @@ Price and Quantities from Purchases, along with Browsing data if available.
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2011-2014 - https://www.yongfeng.me/dataset/
 - JD.com 2020 - https://connect.informs.org/msom/events/datadriven2020
-- Alibaba User Behaviour - https://www.yongfeng.me/dataset/
-- Alibaba IJCAI-18 - https://tianchi.aliyun.com/dataset/147588
-- Alibaba Tmall - https://tianchi.aliyun.com/dataset/140281
+- Alibaba User Behaviour Industrial (150GB) - https://tianchi.aliyun.com/dataset/81505
+- Alimama Sponsered Search (IJCAI-18) - https://tianchi.aliyun.com/dataset/147588
+- Tmall - https://tianchi.aliyun.com/dataset/140281
 - Coveo Labs - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google Merchandise - https://support.google.com/analytics/answer/7586738#
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Online Shopping - https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+- Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
+- Chinese Travel Platform (Fliggy) - https://tianchi.aliyun.com/dataset/113649
+- Chinese Flight Transfer Plans (Fliggy) - https://tianchi.aliyun.com/dataset/140721
 - UK Retail - http://archive.ics.uci.edu/dataset/352/online+retail
 - India Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
 - Medicine Sales - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
-- Friggy Travel - https://tianchi.aliyun.com/dataset/140721
 - Electronic Sales NY - https://www.kaggle.com/datasets/pigment/big-sales-data
 - Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
 
 ## Clickstream and Search
-Browsing logs from users without purchase data. 
+Browsing logs from users without purchase data or includes conversions but without price data. 
 
 - Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 - CTR Tianchi - https://tianchi.aliyun.com/dataset/123953
@@ -40,7 +42,15 @@ Browsing logs from users without purchase data.
 - Yoyi https://apex.sjtu.edu.cn/datasets/7
 - Ele Search https://tianchi.aliyun.com/dataset/120281
 - Ele Clickstream https://tianchi.aliyun.com/dataset/131047
+- Taobao Brick and Mortar (IJCAI-16) https://tianchi.aliyun.com/dataset/53
+- Taobao Mobile 2021 - https://tianchi.aliyun.com/dataset/109858
+- Taobao Clickstream 2018 - https://tianchi.aliyun.com/dataset/56
+- Taobao Cloud Theme - https://tianchi.aliyun.com/dataset/9716
+- Taobao Ads - https://tianchi.aliyun.com/dataset/148347
+- Taobao User Behavior 2018 - https://tianchi.aliyun.com/dataset/649
 - JD.com Search - https://github.com/rucliujn/JDsearch
+
+## Alibaba - Taobao and Tmall
 
 ## Products and Reviews
 Product characteristics including images, descriptions, and reviews; but no user activity or purchase data. 
