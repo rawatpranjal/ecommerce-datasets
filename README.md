@@ -30,6 +30,7 @@ Browsing and search logs that may not have prices, purchases, or both.
 
 - Amazon Sessions - https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge
 - JD.com Search - https://github.com/rucliujn/JDsearch
+- NetEase Music - https://connect.informs.org/rmp/awards/data-competition
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
 - Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 - BestBuy - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
@@ -72,6 +73,7 @@ Individual or aggregate sales, typically for time-series forecasting.
 - Wallmart (M5) - https://www.kaggle.com/competitions/m5-forecasting-accuracy/
 - Ecuador Grocery - https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data
 - Ukraine ecommerce - https://www.kaggle.com/datasets/picklenik/fozzy-group-hack4retail/data
+- Office Supplies - https://sites.google.com/view/dmdaworkshop2023/data-challenge
 - Indian Sales - https://www.kaggle.com/datasets/girishvutukuri/sales-forecasting-for-small-basket?select=train.csv
 - Wallmart Sales - https://www.kaggle.com/datasets/yogesh174/wallmart-sales/data
 - Montgomery Liquor - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
