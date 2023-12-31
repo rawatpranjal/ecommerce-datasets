@@ -14,6 +14,7 @@ Price and Purchases at the individual level, with browsing data if available.
 - Coveo Shopping (SIGIR-21) - https://github.com/coveooss/SIGIR-ecom-data-challenge#how-to-start
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google Merchandise - https://support.google.com/analytics/answer/7586738#
+- Shopee - https://www.kaggle.com/datasets/davydev/shopee-code-league-20
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
 - Fliggy Travel - https://tianchi.aliyun.com/dataset/113649
