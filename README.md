@@ -19,9 +19,11 @@ Price and Purchases at the individual level, with browsing data if available.
 - Fliggy Transfers - https://tianchi.aliyun.com/dataset/140721
 - Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
+- Expedia Travel - 
+https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel
 
 ## Supermarkets and Grocery
-Prices and Purchases from supermarkets or smaller stores, often without demographic details. 
+Prices and Purchases from supermarket, smaller stores,or Grocery often with limited details.
 
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
@@ -38,6 +40,13 @@ https://www.kaggle.com/datasets/aryansingh95/flipkart-grocery-transaction-and-pr
 https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
 - Israeli Grocery - 
 https://www.kaggle.com/datasets/arielpazsawicki/kimonaim?select=shufersalist.db
+- Brazilian store - 
+https://www.kaggle.com/datasets/marcio486/sales-data-for-a-chain-of-brazilian-stores
+- Bandcamp Music sales - https://components.one/datasets/bandcamp-sales
+- Dominiks Soft drinks - 
+https://www.chicagobooth.edu/research/kilts/research-data/dominicks
+- Russian Car Sales - 
+https://www.kaggle.com/datasets/ekibee/car-sales-information
 
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
