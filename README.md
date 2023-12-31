@@ -30,7 +30,6 @@ Prices and Purchases from supermarket, smaller stores,or Grocery often with limi
 - UK Gift Shop - http://archive.ics.uci.edu/dataset/352/online+retail
 - Turkish Drugs - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
 - NYC Shopping - https://www.kaggle.com/datasets/pigment/big-sales-data
-- Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
 - Mexican Grocery - https://www.kaggle.com/datasets/martinezjosegpe/grocery-store/data
 - Vietnamese Supermarket - 
 https://www.kaggle.com/datasets/tienanh2003/sales-and-inventory-snapshot-data
@@ -97,9 +96,12 @@ Individual or aggregate sales, typically for time-series forecasting.
 - Ecuador Grocery - https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data
 - Ukraine ecommerce - https://www.kaggle.com/datasets/picklenik/fozzy-group-hack4retail/data
 - Office Supplies - https://sites.google.com/view/dmdaworkshop2023/data-challenge
+- Brazilian Drugs - 
+https://www.kaggle.com/datasets/tiagoacardoso/venda-medicamentos-controlados-anvisa
 - Indian Sales - https://www.kaggle.com/datasets/girishvutukuri/sales-forecasting-for-small-basket?select=train.csv
 - Wallmart Sales - https://www.kaggle.com/datasets/yogesh174/wallmart-sales/data
 - Montgomery Liquor - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
+- Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 - Store Item - https://www.kaggle.com/c/demand-forecasting-kernels-only/
