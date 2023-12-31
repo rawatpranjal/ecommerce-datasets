@@ -17,7 +17,8 @@ Price and Purchases at the individual level, with browsing data if available.
 - Shopee - https://www.kaggle.com/datasets/davydev/shopee-code-league-20
 - Fliggy Travel - https://tianchi.aliyun.com/dataset/113649
 - Fliggy Transfers - https://tianchi.aliyun.com/dataset/140721
-
+- Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
+- Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 
 ## Supermarkets and Grocery
 Prices and Purchases from supermarkets or smaller stores, often without demographic details. 
@@ -25,13 +26,11 @@ Prices and Purchases from supermarkets or smaller stores, often without demograp
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
 - UK Gift Shop - http://archive.ics.uci.edu/dataset/352/online+retail
-- Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
-- Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Turkish Drugs - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
 - NYC Shopping - https://www.kaggle.com/datasets/pigment/big-sales-data
 - Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
 - Mexican Grocery - https://www.kaggle.com/datasets/martinezjosegpe/grocery-store/data
-- Vietnamese Sales - 
+- Vietnamese Supermarket - 
 https://www.kaggle.com/datasets/tienanh2003/sales-and-inventory-snapshot-data
 - Indian Grocery - 
 https://www.kaggle.com/datasets/aryansingh95/flipkart-grocery-transaction-and-product-details?select=fact_sales_apr1.csv
