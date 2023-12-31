@@ -25,6 +25,7 @@ Price and Purchases at the individual level, with browsing data if available.
 - Turkish Drugs - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
 - NYC Shopping - https://www.kaggle.com/datasets/pigment/big-sales-data
 - Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
+- Mexican Grocery - https://www.kaggle.com/datasets/martinezjosegpe/grocery-store/data
 
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
