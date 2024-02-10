@@ -15,12 +15,8 @@ Price and Purchases at the individual level, with browsing data if available.
 - Retail Rocket - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?select=events.csv
 - Google Merchandise - https://support.google.com/analytics/answer/7586738#
 - Shopee - https://www.kaggle.com/datasets/davydev/shopee-code-league-20
-- Fliggy Travel - https://tianchi.aliyun.com/dataset/113649
-- Fliggy Transfers - https://tianchi.aliyun.com/dataset/140721
 - Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
-- Expedia Travel - 
-https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel
 
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
@@ -28,7 +24,6 @@ Browsing and search logs that may not have prices, purchases, or both.
 - Amazon Sessions - https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge
 - JD.com Search - https://github.com/rucliujn/JDsearch
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
-- Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 - BestBuy - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
 - Diginetica Fashion - https://competitions.codalab.org/competitions/11161
 - Rakuten - https://sigir-ecom.github.io/ecom2018/data-task.html
@@ -109,6 +104,14 @@ Market level or transaction data
 https://www.kaggle.com/datasets/ekibee/car-sales-information
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
+
+## Travel
+Travel bookings and transactions.
+
+- Fliggy Travel - https://tianchi.aliyun.com/dataset/113649
+- Fliggy Transfers - https://tianchi.aliyun.com/dataset/140721
+- Expedia - https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel
+- Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 
 ## Music
 
