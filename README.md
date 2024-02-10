@@ -21,14 +21,12 @@ Price and Purchases at the individual level, with browsing data if available.
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Expedia Travel - 
 https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel
-- Bandcamp Music sales - https://components.one/datasets/bandcamp-sales
 
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
 
 - Amazon Sessions - https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge
 - JD.com Search - https://github.com/rucliujn/JDsearch
-- NetEase Music - https://connect.informs.org/rmp/awards/data-competition
 - Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
 - Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 - BestBuy - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
@@ -112,6 +110,12 @@ https://www.kaggle.com/datasets/ekibee/car-sales-information
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 
+## Music
+
+- NetEase Music - https://connect.informs.org/rmp/awards/data-competition
+- Spotify - https://research.atspotify.com/datasets/
+- Bandcamp Music sales - https://components.one/datasets/bandcamp-sales
+
 ## Auctions and Advertising
 Bidding logs, with ad-clickstream if available. 
 
@@ -158,7 +162,6 @@ Open source data by firms and researchers.
 - Netflix - https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - JD.com - https://datascience.jd.com/page/opendataset.html
 - Rakuten - https://rit.rakuten.com/data_release/#access
-- Spotify - https://research.atspotify.com/datasets/
 - IBM - https://developer.ibm.com/technologies/artificial-intelligence/data/
 - Baidu - https://ai.baidu.com/broad/download
 - AirBnb - http://insideairbnb.com/get-the-data/
