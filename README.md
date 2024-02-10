@@ -1,9 +1,7 @@
 # E-Commerce Datasets
 A curated list of open datasets to study E-Commerce from the fields of Marketing, Economics, Operations, and Computer Science. 
 
-## Transactions and Orders
-Price and Purchases at the individual level, with browsing data if available. 
-
+## General ECommerce
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2014 - https://www.yongfeng.me/dataset/
