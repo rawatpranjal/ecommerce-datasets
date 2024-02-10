@@ -114,15 +114,23 @@ Travel bookings and transactions.
 - Trivago Travel - https://recsys.trivago.cloud/challenge/dataset/
 
 ## Music
-
 - NetEase Music - https://connect.informs.org/rmp/awards/data-competition
 - Spotify - https://research.atspotify.com/datasets/
 - Bandcamp Music sales - https://components.one/datasets/bandcamp-sales
+- Yahoo Music Reviews - https://webscope.sandbox.yahoo.com/catalog.php?datatype=c
+  
+### Procurement and Online Auctions
+- Online Auctions - https://www.modelingonlineauctions.com/datasets
+- Crypto Art - https://www.kaggle.com/datasets/franceschet/superrare?select=bids.csv
+- Ukraine Procurement - https://www.kaggle.com/datasets/oleksastepaniuk/prozorro-public-procurement-dataset
+- Romania Tenders - https://www.kaggle.com/datasets/gpreda/public-tenders-romania-20072016
+- Art Auction - https://www.kaggle.com/datasets/quillen/artists-for-lahaina-2023
+- Used Car Auction - https://www.kaggle.com/datasets/asimzahid/pakistans-largest-pakwheels-automobiles-listings
+- Bidoo https://www.kaggle.com/datasets/federicominutoli/bidoo-closed-auctions
 
-## Auctions and Advertising
+## Display Advertising and Sponsered Search Auctions
 Bidding logs, with ad-clickstream if available. 
 
-- Online Auctions - https://www.modelingonlineauctions.com/datasets
 - Ipinyou  [http://contest.ipinyou.com](http://contest.ipinyou.com/)
 - Alibaba https://tianchi.aliyun.com/dataset/148347
 - Adform https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TADBY7
@@ -130,8 +138,7 @@ Bidding logs, with ad-clickstream if available.
 - Outbrain https://www.kaggle.com/c/outbrain-click-prediction
 - Soso https://www.kaggle.com/competitions/kddcup2012-track2/overview
 - Yahoo https://webscope.sandbox.yahoo.com/catalog.php?datatype=a
-- Bidoo https://www.kaggle.com/datasets/federicominutoli/bidoo-closed-auctions
-- Ebay https://www.kaggle.com/datasets/onlineauctions/online-auctions-dataset
+- Display Advertising - https://www.kaggle.com/datasets/saurav9786/real-time-advertisers-auction
 - ICPSR [https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score desc%2CDATEUPDATED desc&rows=25&q=auction](https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score%20desc%2CDATEUPDATED%20desc&rows=25&q=auction)
 - Replication Data (Harvard) https://dataverse.harvard.edu/dataverse/harvard?q=auction
 
