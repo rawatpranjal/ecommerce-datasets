@@ -5,7 +5,6 @@ A curated list of open datasets to study E-Commerce from the fields of Marketing
 Price and Purchases at the individual level, with browsing data if available. 
 
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-- Indonesian Fashion - https://www.kaggle.com/datasets/latifahhukma/fashion-campus
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2014 - https://www.yongfeng.me/dataset/
 - JD.com 2020 (MSOM-20) - https://connect.informs.org/msom/events/datadriven2020
@@ -17,15 +16,13 @@ Price and Purchases at the individual level, with browsing data if available.
 - Shopee - https://www.kaggle.com/datasets/davydev/shopee-code-league-20
 - Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
-
+  
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
 
 - Amazon Sessions - https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge
 - JD.com Search - https://github.com/rucliujn/JDsearch
-- Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
 - BestBuy - https://www.kaggle.com/c/acm-sf-chapter-hackathon-big/data
-- Diginetica Fashion - https://competitions.codalab.org/competitions/11161
 - Rakuten - https://sigir-ecom.github.io/ecom2018/data-task.html
 - Wayfair Search - https://github.com/wayfair/WANDS
 - Criteo Display Advertising - https://ailab.criteo.com/ressources/
@@ -53,7 +50,6 @@ Product characteristics include images, descriptions, and reviews, but no user a
 - Innerwear - https://www.kaggle.com/datasets/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others
 - Flipkart products - https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
-- Fashion-Minst https://github.com/zalandoresearch/fashion-mnist
 - Metacritic Video Games - https://tianchi.aliyun.com/dataset/144719
 - Goodreads - https://mengtingwan.github.io/data/goodreads.html#datasets
 
@@ -95,6 +91,12 @@ https://www.kaggle.com/datasets/arielpazsawicki/kimonaim?select=shufersalist.db
 https://www.kaggle.com/datasets/marcio486/sales-data-for-a-chain-of-brazilian-stores
 - Dominiks Soft drinks - 
 https://www.chicagobooth.edu/research/kilts/research-data/dominicks
+
+## Fashion
+- Indonesian Fashion - https://www.kaggle.com/datasets/latifahhukma/fashion-campus
+- Diginetica Fashion - https://competitions.codalab.org/competitions/11161
+- Dressipi Fashion - http://www.recsyschallenge.com/2022/dataset.html
+- Fashion-Minst https://github.com/zalandoresearch/fashion-mnist
 
 ## Cars and Used Cars
 Market level or transaction data
