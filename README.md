@@ -21,31 +21,7 @@ Price and Purchases at the individual level, with browsing data if available.
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 - Expedia Travel - 
 https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel
-
-## Supermarkets and Grocery
-Prices and Purchases from supermarket, smaller stores,or Grocery often with limited details.
-
-- Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
-- Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
-- UK Gift Shop - http://archive.ics.uci.edu/dataset/352/online+retail
-- Turkish Drugs - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
-- NYC Shopping - https://www.kaggle.com/datasets/pigment/big-sales-data
-- Mexican Grocery - https://www.kaggle.com/datasets/martinezjosegpe/grocery-store/data
-- Vietnamese Supermarket - 
-https://www.kaggle.com/datasets/tienanh2003/sales-and-inventory-snapshot-data
-- Indian Grocery - 
-https://www.kaggle.com/datasets/aryansingh95/flipkart-grocery-transaction-and-product-details?select=fact_sales_apr1.csv
-- Instacart - 
-https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
-- Israeli Grocery - 
-https://www.kaggle.com/datasets/arielpazsawicki/kimonaim?select=shufersalist.db
-- Brazilian store - 
-https://www.kaggle.com/datasets/marcio486/sales-data-for-a-chain-of-brazilian-stores
 - Bandcamp Music sales - https://components.one/datasets/bandcamp-sales
-- Dominiks Soft drinks - 
-https://www.chicagobooth.edu/research/kilts/research-data/dominicks
-- Russian Car Sales - 
-https://www.kaggle.com/datasets/ekibee/car-sales-information
 
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
@@ -85,7 +61,6 @@ Product characteristics include images, descriptions, and reviews, but no user a
 - Flipkart products - https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products
 - Stanford Datasets (Amazon and Beer Reviews) - https://snap.stanford.edu/data/#amazon
 - Fashion-Minst https://github.com/zalandoresearch/fashion-mnist
-- German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 - Metacritic Video Games - https://tianchi.aliyun.com/dataset/144719
 - Goodreads - https://mengtingwan.github.io/data/goodreads.html#datasets
 
@@ -102,24 +77,54 @@ https://www.kaggle.com/datasets/tiagoacardoso/venda-medicamentos-controlados-anv
 - Wallmart Sales - https://www.kaggle.com/datasets/yogesh174/wallmart-sales/data
 - Montgomery Liquor - https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br
 - Iowa Liquor - https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/data
-- Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 - Brazil Medical - https://www.kaggle.com/datasets/tgomesjuliana/brazil-medicine-sales?select=EDA_Industrializados_202002.csv
 - Store Item - https://www.kaggle.com/c/demand-forecasting-kernels-only/
 - Italian Grocers - https://data.mendeley.com/datasets/s8dgbs3rng/1
+
+## Supermarkets and Grocery
+Prices and Purchases from supermarket, smaller stores,or Grocery often with limited details.
+
+- Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
+- Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
+- UK Gift Shop - http://archive.ics.uci.edu/dataset/352/online+retail
+- Turkish Drugs - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
+- NYC Shopping - https://www.kaggle.com/datasets/pigment/big-sales-data
+- Mexican Grocery - https://www.kaggle.com/datasets/martinezjosegpe/grocery-store/data
+- Vietnamese Supermarket - 
+https://www.kaggle.com/datasets/tienanh2003/sales-and-inventory-snapshot-data
+- Indian Grocery - 
+https://www.kaggle.com/datasets/aryansingh95/flipkart-grocery-transaction-and-product-details?select=fact_sales_apr1.csv
+- Instacart - 
+https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
+- Israeli Grocery - 
+https://www.kaggle.com/datasets/arielpazsawicki/kimonaim?select=shufersalist.db
+- Brazilian store - 
+https://www.kaggle.com/datasets/marcio486/sales-data-for-a-chain-of-brazilian-stores
+- Dominiks Soft drinks - 
+https://www.chicagobooth.edu/research/kilts/research-data/dominicks
+
+## Cars and Used Cars
+Market level or transaction data
+
+- European Car Market - https://sites.google.com/site/frankverbo/data-and-software/data-set-on-the-european-car-market?authuser=0
+- Russian Car Sales - 
+https://www.kaggle.com/datasets/ekibee/car-sales-information
+- German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
+- Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 
 ## Auctions and Advertising
 Bidding logs, with ad-clickstream if available. 
 
 - Online Auctions - https://www.modelingonlineauctions.com/datasets
-- IPINYOU  [http://contest.ipinyou.com](http://contest.ipinyou.com/)
+- Ipinyou  [http://contest.ipinyou.com](http://contest.ipinyou.com/)
 - Alibaba https://tianchi.aliyun.com/dataset/148347
-- ADFORM https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TADBY7
-- TENCENT https://algo.qq.com/index.html
-- OUTBRAIN https://www.kaggle.com/c/outbrain-click-prediction
-- SOSO https://www.kaggle.com/competitions/kddcup2012-track2/overview
-- YAHOO https://webscope.sandbox.yahoo.com/catalog.php?datatype=a
-- BIDOO https://www.kaggle.com/datasets/federicominutoli/bidoo-closed-auctions
-- EBAY https://www.kaggle.com/datasets/onlineauctions/online-auctions-dataset
+- Adform https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TADBY7
+- Tencent https://algo.qq.com/index.html
+- Outbrain https://www.kaggle.com/c/outbrain-click-prediction
+- Soso https://www.kaggle.com/competitions/kddcup2012-track2/overview
+- Yahoo https://webscope.sandbox.yahoo.com/catalog.php?datatype=a
+- Bidoo https://www.kaggle.com/datasets/federicominutoli/bidoo-closed-auctions
+- Ebay https://www.kaggle.com/datasets/onlineauctions/online-auctions-dataset
 - ICPSR [https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score desc%2CDATEUPDATED desc&rows=25&q=auction](https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score%20desc%2CDATEUPDATED%20desc&rows=25&q=auction)
 - Replication Data (Harvard) https://dataverse.harvard.edu/dataverse/harvard?q=auction
 
@@ -133,7 +138,14 @@ Supply-side data on delivery, logistics, freight, etc.
 - DataCo - https://tianchi.aliyun.com/dataset/89959
 - Drone Delivery - https://tianchi.aliyun.com/dataset/89726
 - Brewery Operations - https://www.kaggle.com/datasets/ankurnapa/brewery-operations-and-market-analysis-dataset
-  
+
+## Housing and Residential Prices
+Data from property assessment agencies typically containing house prices and transactions or rental bookings
+
+- AirBnb - http://insideairbnb.com/explore
+- Chicago - https://datacatalog.cookcountyil.gov/
+- New York - https://data.cityofnewyork.us/Housing-Development/NYC-Calendar-Sales-Archive-/uzf5-f8n2/about_data
+
 ## Research Datasets and Collections
 Open source data by firms and researchers. 
 
