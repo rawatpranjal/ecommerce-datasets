@@ -77,7 +77,7 @@ Prices and Purchases from supermarket, smaller stores,or Grocery often with limi
 - Turkish Drugs - https://www.kaggle.com/datasets/emrahaydemr/drug-sales-data
 - NYC Shopping - https://www.kaggle.com/datasets/pigment/big-sales-data
 - Mexican Grocery - https://www.kaggle.com/datasets/martinezjosegpe/grocery-store/data
-- Vietnamese Supermarket - 
+- Vietnam Supermarket - 
 https://www.kaggle.com/datasets/tienanh2003/sales-and-inventory-snapshot-data
 - Indian Grocery - 
 https://www.kaggle.com/datasets/aryansingh95/flipkart-grocery-transaction-and-product-details?select=fact_sales_apr1.csv
@@ -99,9 +99,9 @@ https://www.chicagobooth.edu/research/kilts/research-data/dominicks
 ## Cars and Used Cars
 Market level or transaction data
 
+- BLP US Car data - https://pyblp.readthedocs.io/en/stable/_notebooks/tutorial/blp.html
 - European Car Market - https://sites.google.com/site/frankverbo/data-and-software/data-set-on-the-european-car-market?authuser=0
-- Russian Car Sales - 
-https://www.kaggle.com/datasets/ekibee/car-sales-information
+- Russian Car Market - https://www.kaggle.com/datasets/ekibee/car-sales-information
 - German Used Cars - https://www.kaggle.com/datasets/gogotchuri/myautogecardetails
 - Indian Automobiles - https://www.kaggle.com/datasets/zubairatha/revving-up-telangana-vehicle-sales-2023
 
