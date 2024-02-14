@@ -71,6 +71,7 @@ https://www.kaggle.com/datasets/tiagoacardoso/venda-medicamentos-controlados-anv
 ## Supermarkets and Grocery
 Prices and Purchases from supermarket, smaller stores,or Grocery often with limited details.
 
+- Tesco Data - https://figshare.com/collections/Tesco_Grocery_1_0/4769354
 - Rossman Store - https://www.kaggle.com/c/rossmann-store-sales
 - Polish Grocery - https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop/data
 - UK Gift Shop - http://archive.ics.uci.edu/dataset/352/online+retail
