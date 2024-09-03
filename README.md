@@ -14,7 +14,12 @@ A curated list of open datasets to study E-Commerce from the fields of Marketing
 - Shopee - https://www.kaggle.com/datasets/davydev/shopee-code-league-20
 - Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
-  
+
+## A/B Tests
+- Upworthy News Headlines - https://upworthy.natematias.com/
+- ASSISTments Dataset - https://sites.google.com/site/las2016data/home?authuser=0
+- Gamified Learning - https://www.sciencedirect.com/science/article/pii/S2352340917301646#s0010
+
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
 
