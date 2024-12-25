@@ -1,5 +1,5 @@
-# E-Commerce Datasets
-A curated list of open datasets to study E-Commerce from the fields of Marketing, Economics, Operations, and Computer Science. 
+# Datasets for ML, Econ, and more.
+A curated list of open datasets to study E-Commerce from the fields of Machine Learning, Marketing, Economics, Transporation, Operations, and Computer Science. 
 
 ## General ECommerce
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
