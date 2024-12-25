@@ -1,7 +1,7 @@
 # Business Datasets
 A curated list of business datasets from the fields of Machine Learning, Marketing, Economics, Transporation, Operations, and Computer Science. 
 
-## General ECommerce
+## General e-Commerce
 - Brazilian eCommerce - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Open CDP - https://rees46.com/en/datasets
 - JD.com 2014 - https://www.yongfeng.me/dataset/
