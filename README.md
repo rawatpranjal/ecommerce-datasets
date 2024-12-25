@@ -42,6 +42,12 @@ Browsing and search logs that may not have prices, purchases, or both.
 - Alibaba Ads - https://tianchi.aliyun.com/dataset/148347
 - Alibaba User Behavior 2018 - https://tianchi.aliyun.com/dataset/649
 - Online Shopping - https://www.kaggle.com/datasets/henrysue/online-shoppers-intention
+  
+## Video Search and Recommendation
+User interactions on videos. 
+
+- MicroLens - https://github.com/westlake-repl/MicroLens
+- KuaiSAR - https://kuaisar.github.io/?utm_source=chatgpt.com
 
 ## Product and Reviews
 Product characteristics include images, descriptions, and reviews, but no user activity or purchase data. 
