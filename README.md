@@ -21,7 +21,9 @@ A curated list of business datasets from the fields of Machine Learning, Marketi
 - Gamified Learning - https://www.sciencedirect.com/science/article/pii/S2352340917301646#s0010
 - Collection - https://github.com/gsbDBI/ExperimentData
 - Athey's course - https://github.com/itamarcaspi/experimentdatar/tree/master
-  
+- Development - https://www.pep-net.org/publications/datasets/experimental-research-datasets
+- Computational Neuroscience - https://crcns.org/
+    
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
 
