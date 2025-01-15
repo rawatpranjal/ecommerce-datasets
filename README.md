@@ -15,11 +15,13 @@ A curated list of business datasets from the fields of Machine Learning, Marketi
 - Flipkart - https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset?select=Sales.csv
 - Pakistan e-commerce - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 
-## A/B Tests
+## A/B Tests and Experiments
 - Upworthy News Headlines - https://upworthy.natematias.com/
 - ASSISTments Dataset - https://sites.google.com/site/las2016data/home?authuser=0
 - Gamified Learning - https://www.sciencedirect.com/science/article/pii/S2352340917301646#s0010
-
+- Collection - https://github.com/gsbDBI/ExperimentData
+- Athey's course - https://github.com/itamarcaspi/experimentdatar/tree/master
+  
 ## Browsing and Search
 Browsing and search logs that may not have prices, purchases, or both. 
 
